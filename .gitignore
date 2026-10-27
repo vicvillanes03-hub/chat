@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+__pycache__/
+**/__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.log
+**/.env
+**/.env.*
+**/__pycache__/
+**/.venv/
